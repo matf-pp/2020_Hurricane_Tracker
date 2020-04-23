@@ -1,0 +1,89 @@
+Date	Time	Lat	Lon	Wind	Pressure	Type
+7/11/2005	12:00:00 AM	10.70	-42.40	29	1010	Tropical Depression
+7/11/2005	3:00:00 AM	10.75	-42.90	31	1009	Tropical Depression
+7/11/2005	6:00:00 AM	10.80	-43.40	35	1009	Tropical Depression
+7/11/2005	9:00:00 AM	10.85	-43.90	35	1009	Tropical Depression
+7/11/2005	12:00:00 PM	10.90	-44.40	35	1009	Tropical Depression
+7/11/2005	3:00:00 PM	10.957	-44.87	35	1008	Tropical Depression
+7/11/2005	6:00:00 PM	11.00	-45.40	35	1007	Tropical Depression
+7/11/2005	9:00:00 PM	11.007	-46.048	37	1006	Tropical Depression
+7/12/2005	12:00:00 AM	11.00	-46.80	40	1006	Tropical Storm
+7/12/2005	3:00:00 AM	11.00	-47.628	43	1005	Tropical Storm
+7/12/2005	6:00:00 AM	11.00	-48.50	46	1005	Tropical Storm
+7/12/2005	9:00:00 AM	11.00	-49.343	48	1004	Tropical Storm
+7/12/2005	12:00:00 PM	11.00	-50.20	52	1004	Tropical Storm
+7/12/2005	3:00:00 PM	11.00	-51.10	52	1004	Tropical Storm
+7/12/2005	6:00:00 PM	11.00	-52.00	52	1004	Tropical Storm
+7/12/2005	9:00:00 PM	10.992	-52.858	52	1003	Tropical Storm
+7/13/2005	12:00:00 AM	11.00	-53.70	52	1003	Tropical Storm
+7/13/2005	3:00:00 AM	11.042	-54.542	52	1003	Tropical Storm
+7/13/2005	6:00:00 AM	11.10	-55.40	52	1003	Tropical Storm
+7/13/2005	9:00:00 AM	11.142	-56.30	54	1003	Tropical Storm
+7/13/2005	12:00:00 PM	11.20	-57.20	58	1003	Tropical Storm
+7/13/2005	3:00:00 PM	11.292	-58.087	60	1003	Tropical Storm
+7/13/2005	6:00:00 PM	11.40	-58.90	63	1003	Tropical Storm
+7/13/2005	9:00:00 PM	11.492	-59.58	71	1001	Tropical Storm
+7/14/2005	12:00:00 AM	11.60	-60.20	81	999	Category 1 Hurricane
+7/14/2005	3:00:00 AM	11.703	-60.783	83	995	Category 1 Hurricane
+7/14/2005	6:00:00 AM	11.90	-61.50	86	991	Category 1 Hurricane
+7/14/2005	7:00:00 AM	12.00	-61.80	86	989	Category 1 Hurricane
+7/14/2005	9:00:00 AM	12.173	-62.374	90	985	Category 1 Hurricane
+7/14/2005	12:00:00 PM	12.40	-63.20	98	980	Category 2 Hurricane
+7/14/2005	3:00:00 PM	12.655	-64.041	106	975	Category 2 Hurricane
+7/14/2005	6:00:00 PM	12.90	-64.90	115	971	Category 3 Major Hurricane
+7/14/2005	9:00:00 PM	13.107	-65.80	121	965	Category 3 Major Hurricane
+7/15/2005	12:00:00 AM	13.30	-66.70	127	959	Category 3 Major Hurricane
+7/15/2005	3:00:00 AM	13.50	-67.558	129	955	Category 3 Major Hurricane
+7/15/2005	6:00:00 AM	13.70	-68.40	132	952	Category 4 Major Hurricane
+7/15/2005	9:00:00 AM	13.90	-69.25	132	958	Category 4 Major Hurricane
+7/15/2005	12:00:00 PM	14.10	-70.10	132	964	Category 4 Major Hurricane
+7/15/2005	3:00:00 PM	14.30	-70.958	121	966	Category 3 Major Hurricane
+7/15/2005	6:00:00 PM	14.50	-71.80	109	969	Category 2 Hurricane
+7/15/2005	9:00:00 PM	14.692	-72.608	117	963	Category 3 Major Hurricane
+7/16/2005	12:00:00 AM	14.90	-73.40	127	958	Category 3 Major Hurricane
+7/16/2005	3:00:00 AM	15.142	-74.208	132	955	Category 4 Major Hurricane
+7/16/2005	6:00:00 AM	15.40	-75.00	138	953	Category 4 Major Hurricane
+7/16/2005	9:00:00 AM	15.65	-75.758	144	948	Category 4 Major Hurricane
+7/16/2005	12:00:00 PM	15.90	-76.50	150	944	Category 4 Major Hurricane
+7/16/2005	3:00:00 PM	16.135	-77.25	152	940	Category 4 Major Hurricane
+7/16/2005	6:00:00 PM	16.40	-78.00	155	937	Category 4 Major Hurricane
+7/16/2005	9:00:00 PM	16.742	-78.735	158	933	Category 5 Major Hurricane
+7/17/2005	12:00:00 AM	17.10	-79.50	161	929	Category 5 Major Hurricane
+7/17/2005	3:00:00 AM	17.407	-80.343	158	934	Category 5 Major Hurricane
+7/17/2005	6:00:00 AM	17.70	-81.20	155	940	Category 4 Major Hurricane
+7/17/2005	9:00:00 AM	18.00	-82.015	152	943	Category 4 Major Hurricane
+7/17/2005	12:00:00 PM	18.30	-82.80	150	946	Category 4 Major Hurricane
+7/17/2005	3:00:00 PM	18.60	-83.558	146	947	Category 4 Major Hurricane
+7/17/2005	6:00:00 PM	18.90	-84.30	144	948	Category 4 Major Hurricane
+7/17/2005	9:00:00 PM	19.185	-85.05	140	949	Category 4 Major Hurricane
+7/18/2005	12:00:00 AM	19.50	-85.80	138	951	Category 4 Major Hurricane
+7/18/2005	3:00:00 AM	20.006	-86.593	135	953	Category 4 Major Hurricane
+7/18/2005	6:00:00 AM	20.30	-87.30	132	955	Category 4 Major Hurricane
+7/18/2005	6:30:00 AM	20.30	-87.40	132	955	Category 4 Major Hurricane
+7/18/2005	9:00:00 AM	20.62	-88.03	106	964	Category 2 Hurricane
+7/18/2005	12:00:00 PM	21.30	-88.90	75	975	Category 1 Hurricane
+7/18/2005	3:00:00 PM	21.688	-89.634	75	979	Category 1 Hurricane
+7/18/2005	6:00:00 PM	22.00	-90.30	75	984	Category 1 Hurricane
+7/18/2005	9:00:00 PM	22.307	-90.908	81	982	Category 1 Hurricane
+7/19/2005	12:00:00 AM	22.60	-91.50	86	981	Category 1 Hurricane
+7/19/2005	3:00:00 AM	22.907	-92.15	89	980	Category 1 Hurricane
+7/19/2005	6:00:00 AM	23.20	-92.80	92	980	Category 1 Hurricane
+7/19/2005	9:00:00 AM	23.465	-93.415	92	978	Category 1 Hurricane
+7/19/2005	12:00:00 PM	23.70	-94.00	92	977	Category 1 Hurricane
+7/19/2005	3:00:00 PM	23.915	-94.565	94	968	Category 1 Hurricane
+7/19/2005	6:00:00 PM	24.10	-95.10	98	959	Category 2 Hurricane
+7/19/2005	9:00:00 PM	24.265	-95.623	112	953	Category 3 Major Hurricane
+7/20/2005	12:00:00 AM	24.40	-96.10	127	948	Category 3 Major Hurricane
+7/20/2005	3:00:00 AM	24.507	-96.523	127	946	Category 3 Major Hurricane
+7/20/2005	6:00:00 AM	24.60	-96.90	127	944	Category 3 Major Hurricane
+7/20/2005	9:00:00 AM	24.70	-97.228	127	944	Category 3 Major Hurricane
+7/20/2005	12:00:00 PM	24.80	-97.60	127	944	Category 3 Major Hurricane
+7/20/2005	3:00:00 PM	24.915	-98.127	104	959	Category 2 Hurricane
+7/20/2005	6:00:00 PM	25.00	-98.70	81	975	Tropical Storm
+7/20/2005	9:00:00 PM	25.015	-99.223	66	985	Tropical Storm
+7/21/2005	12:00:00 AM	25.00	-99.70	52	995	Tropical Storm
+7/21/2005	3:00:00 AM	25.00	-100.13	43	997	Tropical Storm
+7/21/2005	6:00:00 AM	25.00	-100.50	35	1000	Tropical Depression
+7/21/2005	9:00:00 AM	25.00	-100.815	31	1003	Tropical Depression
+7/21/2005	12:00:00 PM	25.00	-101.10	29	1007	Tropical Depression
+

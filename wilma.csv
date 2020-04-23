@@ -1,0 +1,94 @@
+Date	Time	Lat	Lon	Wind	Pressure	Type
+10/15/2005	6:00:00 PM	17.60	-78.50	29	1004	Tropical Depression
+10/15/2005	9:00:00 PM	17.613	-78.66	29	1004	Tropical Depression
+10/16/2005	12:00:00 AM	17.60	-78.80	29	1004	Tropical Depression
+10/16/2005	3:00:00 AM	17.55	-78.908	31	1003	Tropical Depression
+10/16/2005	6:00:00 AM	17.50	-79.00	35	1003	Tropical Depression
+10/16/2005	9:00:00 AM	17.492	-79.10	35	1003	Tropical Depression
+10/16/2005	12:00:00 PM	17.50	-79.20	35	1003	Tropical Depression
+10/16/2005	3:00:00 PM	17.507	-79.30	35	1002	Tropical Depression
+10/16/2005	6:00:00 PM	17.50	-79.40	35	1002	Tropical Depression
+10/16/2005	9:00:00 PM	17.488	-79.515	35	1001	Tropical Depression
+10/17/2005	12:00:00 AM	17.40	-79.60	35	1001	Tropical Depression
+10/17/2005	3:00:00 AM	17.187	-79.607	37	1000	Tropical Depression
+10/17/2005	6:00:00 AM	16.90	-79.60	40	1000	Tropical Storm
+10/17/2005	9:00:00 AM	16.585	-79.643	43	999	Tropical Storm
+10/17/2005	12:00:00 PM	16.30	-79.70	46	999	Tropical Storm
+10/17/2005	3:00:00 PM	16.12	-79.75	48	998	Tropical Storm
+10/17/2005	6:00:00 PM	16.00	-79.80	52	997	Tropical Storm
+10/17/2005	9:00:00 PM	15.885	-79.858	58	992	Tropical Storm
+10/18/2005	12:00:00 AM	15.80	-79.90	63	988	Tropical Storm
+10/18/2005	3:00:00 AM	15.697	-79.878	66	985	Tropical Storm
+10/18/2005	6:00:00 AM	15.70	-79.90	69	982	Tropical Storm
+10/18/2005	9:00:00 AM	15.912	-80.04	71	980	Tropical Storm
+10/18/2005	12:00:00 PM	16.20	-80.30	75	979	Category 1 Hurricane
+10/18/2005	3:00:00 PM	16.438	-80.677	81	977	Category 1 Hurricane
+10/18/2005	6:00:00 PM	16.60	-81.10	86	975	Category 1 Hurricane
+10/18/2005	9:00:00 PM	16.60	-81.48	117	960	Category 3 Major Hurricane
+10/19/2005	12:00:00 AM	16.60	-81.80	150	946	Category 4 Major Hurricane
+10/19/2005	3:00:00 AM	16.777	-82.007	161	919	Category 5 Major Hurricane
+10/19/2005	6:00:00 AM	17.00	-82.20	173	892	Category 5 Major Hurricane
+10/19/2005	9:00:00 AM	17.173	-82.485	178	887	Category 5 Major Hurricane
+10/19/2005	12:00:00 PM	17.30	-82.80	184	882	Category 5 Major Hurricane
+10/19/2005	3:00:00 PM	17.335	-83.10	173	887	Category 5 Major Hurricane
+10/19/2005	6:00:00 PM	17.40	-83.40	161	892	Category 5 Major Hurricane
+10/19/2005	9:00:00 PM	17.642	-83.692	158	892	Category 5 Major Hurricane
+10/20/2005	12:00:00 AM	17.90	-84.00	155	892	Category 4 Major Hurricane
+10/20/2005	3:00:00 AM	18.023	-84.358	152	896	Category 4 Major Hurricane
+10/20/2005	6:00:00 AM	18.10	-84.70	150	901	Category 4 Major Hurricane
+10/20/2005	9:00:00 AM	18.192	-84.98	150	905	Category 4 Major Hurricane
+10/20/2005	12:00:00 PM	18.30	-85.20	150	910	Category 4 Major Hurricane
+10/20/2005	3:00:00 PM	18.427	-85.365	150	913	Category 4 Major Hurricane
+10/20/2005	6:00:00 PM	18.60	-85.50	150	917	Category 4 Major Hurricane
+10/20/2005	9:00:00 PM	18.842	-85.65	150	920	Category 4 Major Hurricane
+10/21/2005	12:00:00 AM	19.10	-85.80	150	924	Category 4 Major Hurricane
+10/21/2005	3:00:00 AM	19.292	-85.95	150	927	Category 4 Major Hurricane
+10/21/2005	6:00:00 AM	19.50	-86.10	150	930	Category 4 Major Hurricane
+10/21/2005	9:00:00 AM	19.815	-86.25	146	929	Category 4 Major Hurricane
+10/21/2005	12:00:00 PM	20.10	-86.40	144	929	Category 4 Major Hurricane
+10/21/2005	3:00:00 PM	20.202	-86.563	140	927	Category 4 Major Hurricane
+10/21/2005	6:00:00 PM	20.30	-86.70	138	926	Category 4 Major Hurricane
+10/21/2005	9:00:00 PM	20.561	-86.79	147	926	Category 4 Major Hurricane
+10/21/2005	9:45:00 PM	20.60	-86.80	150	927	Category 4 Major Hurricane
+10/22/2005	12:00:00 AM	20.60	-86.80	138	930	Category 4 Major Hurricane
+10/22/2005	3:00:00 AM	20.778	-86.881	132	932	Category 4 Major Hurricane
+10/22/2005	3:30:00 AM	20.80	-86.90	132	933	Category 4 Major Hurricane
+10/22/2005	6:00:00 AM	20.80	-87.00	127	935	Category 3 Major Hurricane
+10/22/2005	9:00:00 AM	20.872	-87.072	121	941	Category 3 Major Hurricane
+10/22/2005	12:00:00 PM	21.00	-87.10	115	947	Category 3 Major Hurricane
+10/22/2005	3:00:00 PM	21.142	-87.115	106	952	Category 2 Hurricane
+10/22/2005	6:00:00 PM	21.30	-87.10	98	958	Category 2 Hurricane
+10/22/2005	9:00:00 PM	21.457	-87.065	98	959	Category 2 Hurricane
+10/23/2005	12:00:00 AM	21.60	-87.00	98	960	Category 2 Hurricane
+10/23/2005	3:00:00 AM	21.677	-86.945	98	961	Category 2 Hurricane
+10/23/2005	6:00:00 AM	21.80	-86.80	98	962	Category 2 Hurricane
+10/23/2005	9:00:00 AM	22.063	-86.488	98	961	Category 2 Hurricane
+10/23/2005	12:00:00 PM	22.40	-86.10	98	961	Category 2 Hurricane
+10/23/2005	3:00:00 PM	22.727	-85.779	100	962	Category 2 Hurricane
+10/23/2005	6:00:00 PM	23.10	-85.40	104	963	Category 2 Hurricane
+10/23/2005	9:00:00 PM	23.528	-84.887	106	960	Category 2 Hurricane
+10/24/2005	12:00:00 AM	24.00	-84.30	109	958	Category 2 Hurricane
+10/24/2005	3:00:00 AM	24.475	-83.764	117	955	Category 3 Major Hurricane
+10/24/2005	6:00:00 AM	25.00	-83.10	127	953	Category 3 Major Hurricane
+10/24/2005	9:00:00 AM	25.594	-82.272	122	951	Category 3 Major Hurricane
+10/24/2005	10:30:00 AM	25.90	-81.70	121	950	Category 3 Major Hurricane
+10/24/2005	12:00:00 PM	26.20	-81.00	109	950	Category 2 Hurricane
+10/24/2005	3:00:00 PM	27.004	-79.86	115	952	Category 3 Major Hurricane
+10/24/2005	6:00:00 PM	28.00	-78.80	121	955	Category 3 Major Hurricane
+10/24/2005	9:00:00 PM	28.942	-77.526	123	955	Category 3 Major Hurricane
+10/25/2005	12:00:00 AM	30.10	-76.00	127	955	Category 3 Major Hurricane
+10/25/2005	3:00:00 AM	31.596	-74.096	121	959	Category 3 Major Hurricane
+10/25/2005	6:00:00 AM	33.30	-72.00	115	963	Category 3 Major Hurricane
+10/25/2005	9:00:00 AM	35.009	-69.97	109	966	Category 2 Hurricane
+10/25/2005	12:00:00 PM	36.80	-67.90	104	970	Category 2 Hurricane
+10/25/2005	3:00:00 PM	38.763	-65.663	94	973	Category 1 Hurricane
+10/25/2005	6:00:00 PM	40.50	-63.50	86	976	Category 1 Hurricane
+10/25/2005	9:00:00 PM	41.661	-61.594	77	977	Category 1 Hurricane
+10/26/2005	12:00:00 AM	42.50	-60.00	69	978	Extratropical
+10/26/2005	3:00:00 AM	43.321	-58.669	66	980	Extratropical
+10/26/2005	6:00:00 AM	44.00	-57.50	63	982	Extratropical
+10/26/2005	9:00:00 AM	44.572	-56.285	60	984	Extratropical
+10/26/2005	12:00:00 PM	45.00	-55.00	58	986	Extratropical
+10/26/2005	3:00:00 PM	45.293	-53.552	52	988	Extratropical
+10/26/2005	6:00:00 PM	45.50	-52.00	46	990	Extratropical
+

@@ -1,0 +1,69 @@
+Date	Time	Lat	Lon	Wind	Pressure	Type
+9/18/2005	12:00:00 AM	21.30	-69.90	29	1009	Tropical Depression
+9/18/2005	3:00:00 AM	21.45	-70.30	29	1009	Tropical Depression
+9/18/2005	6:00:00 AM	21.60	-70.70	29	1009	Tropical Depression
+9/18/2005	9:00:00 AM	21.75	-71.10	31	1008	Tropical Depression
+9/18/2005	12:00:00 PM	21.90	-71.50	35	1007	Tropical Depression
+9/18/2005	3:00:00 PM	22.057	-71.908	37	1006	Tropical Depression
+9/18/2005	6:00:00 PM	22.20	-72.30	40	1005	Tropical Storm
+9/18/2005	9:00:00 PM	22.307	-72.65	46	1003	Tropical Storm
+9/19/2005	12:00:00 AM	22.40	-73.00	52	1002	Tropical Storm
+9/19/2005	3:00:00 AM	22.50	-73.385	54	1000	Tropical Storm
+9/19/2005	6:00:00 AM	22.60	-73.80	58	999	Tropical Storm
+9/19/2005	9:00:00 AM	22.692	-74.22	60	998	Tropical Storm
+9/19/2005	12:00:00 PM	22.80	-74.70	63	997	Tropical Storm
+9/19/2005	3:00:00 PM	22.95	-75.27	66	995	Tropical Storm
+9/19/2005	6:00:00 PM	23.10	-75.90	69	994	Tropical Storm
+9/19/2005	9:00:00 PM	23.207	-76.52	69	993	Tropical Storm
+9/20/2005	12:00:00 AM	23.30	-77.20	69	992	Tropical Storm
+9/20/2005	3:00:00 AM	23.40	-77.985	69	991	Tropical Storm
+9/20/2005	6:00:00 AM	23.50	-78.80	69	990	Tropical Storm
+9/20/2005	9:00:00 AM	23.60	-79.573	75	987	Tropical Storm
+9/20/2005	12:00:00 PM	23.70	-80.30	81	985	Category 1 Hurricane
+9/20/2005	3:00:00 PM	23.80	-80.98	89	980	Category 1 Hurricane
+9/20/2005	6:00:00 PM	23.90	-81.60	98	975	Category 2 Hurricane
+9/20/2005	9:00:00 PM	24.007	-82.15	104	971	Category 2 Hurricane
+9/21/2005	12:00:00 AM	24.10	-82.70	109	967	Category 2 Hurricane
+9/21/2005	3:00:00 AM	24.165	-83.343	117	961	Category 3 Major Hurricane
+9/21/2005	6:00:00 AM	24.20	-84.00	127	955	Category 3 Major Hurricane
+9/21/2005	9:00:00 AM	24.20	-84.623	132	948	Category 4 Major Hurricane
+9/21/2005	12:00:00 PM	24.20	-85.20	138	941	Category 4 Major Hurricane
+9/21/2005	3:00:00 PM	24.235	-85.737	152	930	Category 4 Major Hurricane
+9/21/2005	6:00:00 PM	24.30	-86.20	167	920	Category 5 Major Hurricane
+9/21/2005	9:00:00 PM	24.372	-86.56	169	908	Category 5 Major Hurricane
+9/22/2005	12:00:00 AM	24.50	-86.90	173	897	Category 5 Major Hurricane
+9/22/2005	3:00:00 AM	24.70	-87.30	178	895	Category 5 Major Hurricane
+9/22/2005	6:00:00 AM	24.80	-87.60	178	897	Category 5 Major Hurricane
+9/22/2005	9:00:00 AM	24.979	-87.933	169	902	Category 5 Major Hurricane
+9/22/2005	12:00:00 PM	25.20	-88.30	161	908	Category 5 Major Hurricane
+9/22/2005	3:00:00 PM	25.40	-88.693	152	910	Category 4 Major Hurricane
+9/22/2005	6:00:00 PM	25.60	-89.10	144	913	Category 4 Major Hurricane
+9/22/2005	9:00:00 PM	25.792	-89.50	140	914	Category 4 Major Hurricane
+9/23/2005	12:00:00 AM	26.00	-89.90	138	915	Category 4 Major Hurricane
+9/23/2005	3:00:00 AM	26.235	-90.30	135	919	Category 4 Major Hurricane
+9/23/2005	6:00:00 AM	26.50	-90.70	132	924	Category 4 Major Hurricane
+9/23/2005	9:00:00 AM	26.785	-91.10	132	925	Category 4 Major Hurricane
+9/23/2005	12:00:00 PM	27.10	-91.50	132	927	Category 4 Major Hurricane
+9/23/2005	3:00:00 PM	27.435	-91.908	129	928	Category 3 Major Hurricane
+9/23/2005	6:00:00 PM	27.80	-92.30	127	930	Category 3 Major Hurricane
+9/23/2005	9:00:00 PM	28.192	-92.665	123	930	Category 3 Major Hurricane
+9/24/2005	12:00:00 AM	28.60	-93.00	121	931	Category 3 Major Hurricane
+9/24/2005	3:00:00 AM	28.966	-93.336	117	933	Category 3 Major Hurricane
+9/24/2005	6:00:00 AM	29.40	-93.60	115	935	Category 3 Major Hurricane
+9/24/2005	7:40:00 AM	29.70	-93.70	115	937	Category 3 Major Hurricane
+9/24/2005	9:00:00 AM	29.944	-93.82	102	940	Category 2 Hurricane
+9/24/2005	12:00:00 PM	30.50	-94.10	75	949	Category 1 Hurricane
+9/24/2005	3:00:00 PM	31.051	-94.156	63	961	Hurricane
+9/24/2005	6:00:00 PM	31.60	-94.10	52	974	Tropical Storm
+9/24/2005	9:00:00 PM	32.157	-94.08	46	978	Tropical Storm
+9/25/2005	12:00:00 AM	32.70	-94.00	40	982	Tropical Storm
+9/25/2005	3:00:00 AM	33.207	-93.874	37	985	Tropical Storm
+9/25/2005	6:00:00 AM	33.70	-93.60	35	989	Tropical Depression
+9/25/2005	9:00:00 AM	34.193	-93.103	31	992	Tropical Depression
+9/25/2005	12:00:00 PM	34.70	-92.50	29	995	Tropical Depression
+9/25/2005	3:00:00 PM	35.235	-91.964	29	997	Tropical Depression
+9/25/2005	6:00:00 PM	35.80	-91.40	29	1000	Tropical Depression
+9/25/2005	9:00:00 PM	36.294	-90.819	25	1001	Tropical Depression
+9/26/2005	12:00:00 AM	37.00	-90.10	23	1003	Tropical Depression
+9/26/2005	3:00:00 AM	38.125	-89.138	23	1004	Tropical Depression
+9/26/2005	6:00:00 AM	39.50	-88.00	23	1006	Tropical Low
