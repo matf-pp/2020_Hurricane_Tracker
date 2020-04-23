@@ -13,8 +13,27 @@ mapa=tkinter.PhotoImage(file="mapa1.gif")
 canvas.create_image(-855,-420,image=mapa)
 
 hurricane=turtle.Turtle()
-screen.register_shape("icon.gif")
-hurricane.shape("icon.gif")
+#screen.register_shape("icon.gif")
+#hurricane.shape("icon.gif")
+
+screen.register_shape("frame_0.gif")
+screen.register_shape("frame_1.gif")
+screen.register_shape("frame_2.gif")
+screen.register_shape("frame_3.gif")
+screen.register_shape("frame_4.gif")
+
+hurricane.shape("frame_0.gif")
+
+oblici=["frame_0.gif","frame_1.gif","frame_2.gif","frame_3.gif","frame_4.gif"]
+j=0
+
+def menjaj_oblik():
+    global j
+    if (j>4):
+        j=j//4
+    hurricane.shape(oblici[j])
+    j=j+1
+
 
 latitude=[]
 longitude=[]
@@ -50,6 +69,7 @@ hurricane.pendown()
 hurricane.color("red")
 hurricane.pensize(3)
 for i in range(1,n):
+    menjaj_oblik()
     x=float(longitude[i])
     y=float(latitude[i])
     brzina=float(speed[i])
