@@ -110,7 +110,7 @@ def obradi_uragan(imefajla):
 
 
 if __name__=="__main__":
-    broj=int(input("Odaberite uragan:\nDennis - 1\nEmily - 2\nKatrina - 3\nRita - 4\nWilma - 5\n"))
+    broj=int(input("Godina 2005. je imala najaktivniju sezonu uragana ikada zabeleženu u Atlantskom okeanu. Od 27 oluja, rekordnih 15 je dobilo status uragana, a čak njih 4 je dostiglo kategoriju 5, što je najviši rang na skali.\nOluje su izazvale skoro 4000 smrtnih ishoda i materijalnu štetu od 171 milijardi dolara.\nOvde su date animacije za 5 najjačih uragana te godine.\nOdaberite uragan:\nDennis - 1\nEmily - 2\nKatrina - 3\nRita - 4\nWilma - 5\n"))
     if (broj==1):
         obradi_uragan("dennis.csv")
     elif (broj==2):
@@ -123,7 +123,6 @@ if __name__=="__main__":
         obradi_uragan("wilma.csv")
     else:
         print("Greska.\n")
-
 
 
 
