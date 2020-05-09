@@ -1,0 +1,72 @@
+<kvBl>
+    orientation: 'horizontal'
+    
+    Label:
+        text: "Godina 2005. je imala najaktivniju sezonu uragana ikada zabeleženu u Atlantskom okeanu. Od 27 oluja, rekordnih 15 je dobilo status uragana, a čak njih 4 je dostiglo kategoriju 5, što je najviši rang na skali. \nOluje su izazvale skoro 4000 smrtnih ishoda i materijalnu štetu od 171 milijardi dolara. \nOvde su date animacije za 5 najjačih uragana te godine. \n\nIzaberi uragan!"
+        font_size: 20
+        text_size: self.width,None
+        size_hint: 1, None
+        height: self.texture_size[1]
+        padding_x:50
+        padding_y:130
+        halign: 'center'
+
+    BoxLayout:
+        orientation: 'vertical'
+        
+        #Wilma
+        BoxLayout:
+            orientation: 'horizontal'
+            
+            Label:
+                text: "Wilma"
+                font_size: 20
+            CheckBox: 
+                on_active:root.setfilename("wilma.csv")
+                group: "grupa"
+        #Rita
+        BoxLayout:
+            orientation: 'horizontal'
+            
+            Label:
+                text: "Rita"
+                font_size: 20
+            CheckBox: 
+                on_active:root.setfilename("rita.csv")
+                group: "grupa"
+        #Dennis
+        BoxLayout:
+            orientation: 'horizontal'
+            
+            Label:
+                text: "Dennis"
+                font_size: 20
+            CheckBox: 
+                on_active:root.setfilename("dennis.csv")
+                group: "grupa"
+         #Katrina
+        BoxLayout:
+            orientation: 'horizontal'
+            
+            Label:
+                text: "Katrina"
+                font_size: 20
+            CheckBox: 
+                on_active:root.setfilename("katrina.csv")
+                group: "grupa"
+        #Emily
+        BoxLayout:
+            orientation: 'horizontal'
+            
+            Label:
+                text: "Emily"
+                font_size: 20
+            CheckBox: 
+                on_active:root.setfilename("emily.csv")
+                group: "grupa"
+                
+    BoxLayout:
+        orientation: 'vertical'
+        Button:
+            text: "Pokreni aplikaciju"
+            on_press: root.pokreni()
