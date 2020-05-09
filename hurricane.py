@@ -11,7 +11,7 @@ def setup():
     screen.setworldcoordinates(-105,5,-20,45)
     screen.title("Hurricane Tracker")
     canvas=screen.getcanvas()
-    mapa=tkinter.PhotoImage(file="mapa1.gif")
+    mapa=tkinter.PhotoImage(file="mapa.gif")
     canvas.create_image(-855,-420,image=mapa)
 
     hurricane=turtle.Turtle()
