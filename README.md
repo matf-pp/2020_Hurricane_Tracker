@@ -14,9 +14,9 @@ Korišćene biblioteke: csv, turtle, tkinter, kivy
 
 Neophodno je imati instaliranu **kivy** biblioteku.
 
-[Instalacija za Linux] (https://kivy.org/doc/stable/installation/installation-linux.html)
+[Instalacija za Linux](https://kivy.org/doc/stable/installation/installation-linux.html)
 
-[Instalacija za Windows] (https://kivy.org/doc/stable/installation/installation-windows.html)
+[Instalacija za Windows](https://kivy.org/doc/stable/installation/installation-windows.html)
 
 ## Operativni sistem
 
