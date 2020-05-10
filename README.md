@@ -12,19 +12,23 @@ Korišćene biblioteke: csv, turtle, tkinter, kivy
 
 ## Potrebni alati za pokretanje
 
-Neophodno je imati instaliranu *kivy* biblioteku.
+Neophodno je imati instaliranu **kivy** biblioteku.
+
+[Instalacija za Linux] (https://kivy.org/doc/stable/installation/installation-linux.html)
+
+[Instalacija za Windows] (https://kivy.org/doc/stable/installation/installation-windows.html)
 
 ## Operativni sistem
 
-Linux
+Linux/Windows
 
 ## Pokretanje
 
-Otvoriti terminal u folderu gde se nalaze svi fajlovi.
+Otvoriti terminal/command prompt u folderu gde se nalaze svi fajlovi.
 Program je moguće pokrenuti u dva režima:
 
-* **tekstualni**: komandom `python3 hurricane.py`
-* **grafički interfejs**: komandom `python3 gui.py`
+* **tekstualni**: komandom `python3 hurricane.py` / `py -3 hurricane.py`
+* **grafički interfejs**: komandom `python3 gui.py` / `py -3 gui.py`
 
 ## Autori
 
