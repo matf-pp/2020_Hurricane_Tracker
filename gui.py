@@ -20,6 +20,7 @@ class kvBL(BoxLayout):
         filename=text
 class hurricaneApp(App):
     def build(self):
+        self.title="Hurricane Tracker"
         return kvBL()
 
 
