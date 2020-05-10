@@ -30,6 +30,11 @@ Program je moguće pokrenuti u dva režima:
 * **tekstualni**: komandom `python3 hurricane.py` / `py -3 hurricane.py`
 * **grafički interfejs**: komandom `python3 gui.py` / `py -3 gui.py`
 
-## Autori
+## Napomena
+
+Izvršna verzija programa se može preuzeti [odavde](https://drive.google.com/open?id=1rfx-Dd-qeY0fHPiUc29zCEvWjhweq60D).
+Otpakovati zip datoteku, otvoriti folder dist, zatim gui, i pokrenuti fajl **gui**.
+
+## Autor
 
 Milena Vidić - vidic.milena@gmail.com
