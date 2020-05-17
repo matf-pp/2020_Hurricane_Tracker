@@ -7,7 +7,7 @@
             size: self.size
             pos: self.pos
     Label:
-        text: "Godina 2005. je imala najaktivniju sezonu uragana ikada zabeleženu u Atlantskom okeanu. Od 27 oluja, rekordnih 15 je dobilo status uragana, a čak njih 4 je dostiglo kategoriju 5, što je najviši rang na skali. \nOluje su izazvale skoro 4000 smrtnih ishoda i materijalnu štetu od 171 milijardi dolara. \nOvde su date animacije za 5 najjačih uragana te godine. \n\nIzaberi uragan!"
+        text: "The 2005 Atlantic hurricane season was the most active Atlantic hurricane season in recorded history. Fifteen out of twenty-seven storms attained hurricane status, and seven of those became major hurricanes (category 3 or higher).\nThis hurricane season made a catastrophic impact, with nearly 4,000 deaths and approximately $171 billion in damage. It lasted from June 2005 to January 2006, mainly devastating the Gulf Coast of the United States.\nThe strongest hurricanes were Dennis, Emily, Katrina, Rita and Wilma. Four of them reached category 5, which is the highest on the scale.\nChoose one of them to see its path being animated."
         bold:True
         font_size: 20
         text_size: self.width,None
@@ -19,32 +19,6 @@
         orientation: 'vertical'
         size_hint:0.7,1
         
-        #Wilma
-        BoxLayout:
-            orientation: 'horizontal'
-            
-            Label:
-                text: "Wilma"
-                bold:True
-                font_size: 20
-                color:(0.0,0.5,0.7,1)
-            CheckBox: 
-                on_active:root.setfilename("wilma.csv")
-                group: "grupa"
-                color:[0,0,0,1]
-        #Rita
-        BoxLayout:
-            orientation: 'horizontal'
-
-            Label:
-                text: "Rita"
-                bold:True
-                font_size: 20
-                color:(0.0,0.5,0.7,1)
-            CheckBox: 
-                on_active:root.setfilename("rita.csv")
-                group: "grupa"
-                color:[0,0,0,1]
         #Dennis
         BoxLayout:
             orientation: 'horizontal'
@@ -58,19 +32,8 @@
                 on_active:root.setfilename("dennis.csv")
                 group: "grupa"
                 color:[0,0,0,1]
-         #Katrina
-        BoxLayout:
-            orientation: 'horizontal'
-            
-            Label:
-                text: "Katrina"
-                bold:True
-                font_size: 20
-                color:(0.0,0.5,0.7,1)
-            CheckBox: 
-                on_active:root.setfilename("katrina.csv")
-                group: "grupa"
-                color:[0,0,0,1]
+                on_active: warning.opacity=0
+
         #Emily
         BoxLayout:
             orientation: 'horizontal'
@@ -84,18 +47,65 @@
                 on_active:root.setfilename("emily.csv")
                 group: "grupa"
                 color:[0,0,0,1]
-                
+                on_active: warning.opacity=0
+
+         #Katrina
+        BoxLayout:
+            orientation: 'horizontal'
+            
+            Label:
+                text: "Katrina"
+                bold:True
+                font_size: 20
+                color:(0.0,0.5,0.7,1)
+            CheckBox: 
+                on_active:root.setfilename("katrina.csv")
+                group: "grupa"
+                color:[0,0,0,1]
+                on_active: warning.opacity=0
+
+        #Rita
+        BoxLayout:
+            orientation: 'horizontal'
+
+            Label:
+                text: "Rita"
+                bold:True
+                font_size: 20
+                color:(0.0,0.5,0.7,1)
+            CheckBox: 
+                on_active:root.setfilename("rita.csv")
+                group: "grupa"
+                color:[0,0,0,1]
+                on_active: warning.opacity=0
+
+        #Wilma
+        BoxLayout:
+            orientation: 'horizontal'
+            
+            Label:
+                text: "Wilma"
+                bold:True
+                font_size: 20
+                color:(0.0,0.5,0.7,1)
+            CheckBox: 
+                on_active:root.setfilename("wilma.csv")
+                group: "grupa"
+                color:[0,0,0,1]
+                on_active: warning.opacity=0
+
     BoxLayout:
         orientation: 'vertical'
         size_hint:0.5,0.6
 
 
         Button:
-            text: "Pokreni aplikaciju!"
+            text:"Run the animation"
             color:(0.0,0.5,0.7,1)
             bold:True
             font_size: 20
             on_press: root.pokreni()
+            on_press: warning.opacity=1
             background_normal:''
             background_color:1,1,1,0.5
             canvas:
@@ -105,5 +115,11 @@
                     width: 2
                     rectangle: self.x, self.y, self.width, self.height
         BoxLayout:
+            Label:
+                text: "Please select a hurricane"
+                bold: True
+                visible: False
+                id: warning
+                opacity: 0
         BoxLayout:
             
