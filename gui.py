@@ -7,14 +7,15 @@ from kivy.core.window import Window
 
 Window.size = (1120, 630)
 
-filename="katrina.csv"
+filename="null"
 
 
 class kvBL(BoxLayout):
     def checkbox_click(self, instance, value):
         pass
     def pokreni(self):
-        hurricane.obradi_uragan(filename) 
+        if (filename!="null"):
+            hurricane.obradi_uragan(filename) 
     def setfilename(self,text):
         global filename
         filename=text
