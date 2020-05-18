@@ -7,17 +7,20 @@
             size: self.size
             pos: self.pos
     Label:
-        text: "The 2005 Atlantic hurricane season was the most active Atlantic hurricane season in recorded history. Fifteen out of twenty-seven storms attained hurricane status, and seven of those became major hurricanes (category 3 or higher).\nThis hurricane season made a catastrophic impact, with nearly 4,000 deaths and approximately $171 billion in damage. It lasted from June 2005 to January 2006, mainly devastating the Gulf Coast of the United States.\nThe strongest hurricanes were Dennis, Emily, Katrina, Rita and Wilma. Four of them reached category 5, which is the highest on the scale.\nChoose one of them to see its path being animated."
+        text: "The 2005 Atlantic hurricane season was the most active Atlantic hurricane season in recorded history. Fifteen out of twenty-seven storms attained hurricane status, and seven of those became major hurricanes (category 3 or higher).\nThis hurricane season made a catastrophic impact, with nearly 4,000 deaths and approximately $171 billion in damage. It lasted from June 2005 to January 2006, mainly devastating the Gulf Coast of the United States.\n\nThe strongest hurricanes were Dennis, Emily, Katrina, Rita and Wilma. Four of them reached category 5, which is the highest ranking on the scale.\nChoose one of them to see its path being animated."
         bold:True
         font_size: 20
         text_size: self.width,None
         padding_x:50
         halign: 'center'
         color:0,0.1,0.2,0.8
+        size_hint:0.9,1
 
     BoxLayout:
         orientation: 'vertical'
-        size_hint:0.7,1
+        #size_x: 200
+        #size_hint: None,1
+        size_hint:0.5,1
         
         #Dennis
         BoxLayout:
@@ -33,6 +36,7 @@
                 group: "grupa"
                 color:[0,0,0,1]
                 on_active: warning.opacity=0
+                on_active: info.text="Duration: July 4 - July 13 \n\nDennis was the first major hurricane of the season. Forming in July, the hurricane became the strongest Atlantic hurricane ever to form before August (beating the record after 48 years), but was surpassed by Hurricane Emily only six days later. \nDennis produced widespread flooding and landslides in Haiti, and brought torrential rain to Jamaica. The storm's heaviest rainfall occurred in Cuba, making Dennis the wettest storm for the island since 1963. In the US, Florida was the most affected."
 
         #Emily
         BoxLayout:
@@ -48,6 +52,7 @@
                 group: "grupa"
                 color:[0,0,0,1]
                 on_active: warning.opacity=0
+                on_active: info.text="Duration: July 11 - July 21 \n\nHurricane Emily was the earliest forming Category 5 Atlantic hurricane on record in a season and the most intense to form before August. It caused significant damage across the Caribbean Sea to Mexico. \nThe storm moved generally toward the west-northwest, peaking as a Category 5 hurricane while traversing the Caribbean Sea. It made landfall in the Yucatán peninsula, continued across the Gulf of Mexico and struck Mexico land once again, this time dissipating within a day."
 
          #Katrina
         BoxLayout:
@@ -63,6 +68,7 @@
                 group: "grupa"
                 color:[0,0,0,1]
                 on_active: warning.opacity=0
+                on_active: info.text="Duration: August 23 - August 30 \n\nKatrina was one of the deadliest, costliest and most destructive hurricanes ever to strike the United States. It caused $125 billion in damage and over 1,200 deaths. \nThe storm formed over the Bahamas, then moved west and hit south Florida as a Category 1 hurricane. It emerged into the Gulf of Mexico and began to rapidly intensify, strenghtening into a Category 5 hurricane. After turning north and weakening slightly, it hit Louisiana and Mississippi, flooding coastal areas.\n80% of New Orleans was flooded when the levees protecting the city broke."
 
         #Rita
         BoxLayout:
@@ -78,6 +84,7 @@
                 group: "grupa"
                 color:[0,0,0,1]
                 on_active: warning.opacity=0
+                on_active: info.text="Duration: September 18 - September 26\n\nHurricane Rita's approach to the U.S. gulf coast prompted one of the largest mass evacuations in the country's history, with an estimated 3.7 million people fleeing the coast. It struck the U.S. Gulf coast near the Texas-Louisiana border. Rita's fifteen-foot storm surge and heavy rains caused widespread flooding along the entire Louisiana coastline, worsening effects caused by Hurricane Katrina less than a month prior, such as overtopping the already damaged levees in New Orleans. Its winds, rain and tornadoes also caused damage from Texas to Alabama."
 
         #Wilma
         BoxLayout:
@@ -93,13 +100,33 @@
                 group: "grupa"
                 color:[0,0,0,1]
                 on_active: warning.opacity=0
+                on_active: info.text="Duration: October 15 - October 25\n\nWilma was the twenty-second storm of 2005, making the season the most active hurricane season on record, exceeding a total of 21 storms from 1933. After strenghtening into a hurricane, it took Wilma less than 24 hours to reach Category 5. Soon after that, it achieved its peak, becoming the most intense storm in the Atlantic basin in terms of pressure. \nWilma made several landfalls, with the most destructive effects felt in the Yucatán Peninsula and Florida. It also set a record in Mexico, and for the entire Western Hemisphere, for the highest 24 hour rainfall total with 1633.98mm."
 
     BoxLayout:
         orientation: 'vertical'
-        size_hint:0.5,0.6
+        size_hint:0.7,1
 
+        BoxLayout:
+            size_hint:None,None
+            size: 310,460
+            Label:
+                text_size: self.width,self.height
+                text: ""
+                font_size: 18
+                color:(0.0,0.3,0.5,1)
+                bold: True
+                text_size: self.width,None
+                id: info
+                #padding_x:20
+                padding_y:10
+                halign: 'justify'
+                valign:'top'
+                #valign: 'middle'
+                text_size: self.width,self.height
 
         Button:
+            size:310,100
+            size_hint:None,None
             text:"Run the animation"
             color:(0.0,0.5,0.7,1)
             bold:True
@@ -115,11 +142,13 @@
                     width: 2
                     rectangle: self.x, self.y, self.width, self.height
         BoxLayout:
+            size:310,50
+            size_hint:None,None
             Label:
                 text: "Please select a hurricane"
                 bold: True
                 visible: False
                 id: warning
                 opacity: 0
-        BoxLayout:
+
             
