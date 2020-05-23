@@ -11,8 +11,6 @@ filename="null"
 
 
 class kvBL(BoxLayout):
-    def checkbox_click(self, instance, value):
-        pass
     def pokreni(self):
         if (filename!="null"):
             hurricane.obradi_uragan(filename) 
