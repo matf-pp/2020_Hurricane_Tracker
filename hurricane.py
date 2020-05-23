@@ -110,7 +110,7 @@ def obradi_uragan(imefajla):
 
 
 if __name__=="__main__":
-    broj=int(input("Godina 2005. je imala najaktivniju sezonu uragana ikada zabeleženu u Atlantskom okeanu. Od 27 oluja, rekordnih 15 je dobilo status uragana, a čak njih 4 je dostiglo kategoriju 5, što je najviši rang na skali.\nOluje su izazvale skoro 4000 smrtnih ishoda i materijalnu štetu od 171 milijardi dolara.\nOvde su date animacije za 5 najjačih uragana te godine.\nOdaberite uragan:\nDennis - 1\nEmily - 2\nKatrina - 3\nRita - 4\nWilma - 5\n"))
+    broj=int(input("The 2005 Atlantic hurricane season was the most active Atlantic hurricane season in recorded history. Fifteen out of twenty-seven storms attained hurricane status, and seven of those became major hurricanes (category 3 or higher).\nThis hurricane season made a catastrophic impact, with nearly 4,000 deaths and approximately $171 billion in damage. It lasted from June 2005 to January 2006, mainly devastating the Gulf Coast of the United States.\n\nThe strongest hurricanes were Dennis, Emily, Katrina, Rita and Wilma. Four of them reached category 5, which is the highest ranking on the scale.\nChoose one of them to see its path being animated.\nDennis - 1\nEmily - 2\nKatrina - 3\nRita - 4\nWilma - 5\n"))
     if (broj==1):
         obradi_uragan("dennis.csv")
     elif (broj==2):
