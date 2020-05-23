@@ -18,8 +18,6 @@
 
     BoxLayout:
         orientation: 'vertical'
-        #size_x: 200
-        #size_hint: None,1
         size_hint:0.5,1
         
         #Dennis
@@ -84,7 +82,7 @@
                 group: "grupa"
                 color:[0,0,0,1]
                 on_active: warning.opacity=0
-                on_active: info.text="Duration: September 18 - September 26\n\nHurricane Rita's approach to the U.S. gulf coast prompted one of the largest mass evacuations in the country's history, with an estimated 3.7 million people fleeing the coast. It struck the U.S. Gulf coast near the Texas-Louisiana border. Rita's fifteen-foot storm surge and heavy rains caused widespread flooding along the entire Louisiana coastline, worsening effects caused by Hurricane Katrina less than a month prior, such as overtopping the already damaged levees in New Orleans. Its winds, rain and tornadoes also caused damage from Texas to Alabama."
+                on_active: info.text="Duration: September 18 - September 26\n\nHurricane Rita's approach to the U.S. Gulf coast prompted one of the largest mass evacuations in the country's history, with an estimated 3.7 million people fleeing the coast. It struck the U.S. Gulf coast near the Texas - Louisiana border. Rita's fifteen-foot storm surge and heavy rains caused widespread flooding along the entire Louisiana coastline, worsening effects caused by Hurricane Katrina less than a month prior, such as overtopping the already damaged levees in New Orleans. Its winds, rain and tornadoes also caused damage from Texas to Alabama."
 
         #Wilma
         BoxLayout:
@@ -117,11 +115,9 @@
                 bold: True
                 text_size: self.width,None
                 id: info
-                #padding_x:20
                 padding_y:10
                 halign: 'justify'
                 valign:'top'
-                #valign: 'middle'
                 text_size: self.width,self.height
 
         Button:
@@ -150,5 +146,3 @@
                 visible: False
                 id: warning
                 opacity: 0
-
-            
