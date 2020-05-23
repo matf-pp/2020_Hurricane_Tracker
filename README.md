@@ -32,7 +32,7 @@ Program je moguće pokrenuti u dva režima:
 
 ## Napomena
 
-Izvršna verzija programa se može preuzeti [odavde](https://drive.google.com/open?id=1rfx-Dd-qeY0fHPiUc29zCEvWjhweq60D).
+Izvršna verzija programa se može preuzeti [odavde](https://drive.google.com/file/d/18D9WneKy2hytLJQGNa34vOX_UXeZpKld/view?usp=sharing).
 Otpakovati zip datoteku, otvoriti folder dist, zatim gui, i pokrenuti fajl **gui**.
 
 ## Autor
